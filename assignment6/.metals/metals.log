@@ -1,0 +1,447 @@
+2024.07.29 22:11:18 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6bce07a4]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4ef15d90]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6bce07a4]
+2024.07.29 22:11:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 22:11:20 INFO  no build target found for D:\scala\functional-programming\assignment6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 22:11:22 INFO  Running List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\scala\functional-programming\assignment6)
+2024.07.29 22:11:23 INFO  Attempting to connect to the build server...
+2024.07.29 22:11:23 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.29 22:11:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.29 22:11:25 INFO  BSP server: Starting compilation server
+2024.07.29 22:11:33 INFO  time: Connected to build server in 9.78s
+2024.07.29 22:11:33 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.29 22:11:33 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.29 22:11:38 INFO  time: Imported build in 5.57s
+2024.07.29 22:11:38 INFO  running doctor check
+2024.07.29 22:11:38 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.29 22:11:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 22:11:46 INFO  time: indexed workspace in 7.9s
+2024.07.30 06:56:10 INFO  no build target found for D:\scala\functional-programming\assignment6\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:56:10 INFO  no build target found for D:\scala\functional-programming\assignment6\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:56:10 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/q2.scala
+2024.07.30 06:56:11 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 06:56:11 INFO  time: compiled assignment6_e91d09b95c in 0.18s
+2024.07.30 06:56:11 INFO  time: Imported build in 0.38s
+2024.07.30 06:56:10 INFO  running doctor check
+2024.07.30 06:56:10 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.30 06:56:12 INFO  time: indexed workspace in 1.55s
+2024.07.30 06:56:14 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 06:56:15 INFO  time: compiled assignment6_e91d09b95c in 1.01s
+2024.07.30 06:56:40 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:56:40 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:56:40 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:23 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:23 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:23 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:23 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:23 WARN  no build target for: D:\scala\functional-programming\assignment6\build.sbt
+2024.07.30 06:57:23 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:23 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:26 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:26 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:28 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:28 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:28 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:28 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:29 WARN  no build target for: D:\scala\functional-programming\assignment6\build.sbt
+2024.07.30 06:57:29 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:29 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:33 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:34 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:34 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:34 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:34 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:35 WARN  no build target for: D:\scala\functional-programming\assignment6\build.sbt
+2024.07.30 06:57:35 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 06:57:35 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 06:57:44 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 30, 2024 6:57:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 30, 2024 7:00:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.30 07:03:14 INFO  Shutting down server
+2024.07.30 07:03:14 INFO  shutting down Metals
+2024.07.30 07:03:14 INFO  Shut down connection with build server.
+2024.07.30 07:03:14 INFO  Exiting server
+2024.07.30 07:03:36 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7d6f4f90]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7e5f27c4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7d6f4f90]
+2024.07.30 07:03:37 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:03:38 INFO  Attempting to connect to the build server...
+2024.07.30 07:03:38 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.30 07:03:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 07:03:41 INFO  time: Connected to build server in 3.66s
+2024.07.30 07:03:41 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 07:03:41 INFO  running doctor check
+2024.07.30 07:03:41 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.30 07:03:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:03:44 INFO  time: indexed workspace in 2.85s
+Jul 30, 2024 7:04:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.30 07:06:01 INFO  Shutting down server
+2024.07.30 07:06:01 INFO  shutting down Metals
+2024.07.30 07:06:01 INFO  Shut down connection with build server.
+2024.07.30 07:06:01 INFO  Exiting server
+2024.07.30 07:06:21 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1d061325]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@665995de]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1d061325]
+2024.07.30 07:06:21 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:06:23 INFO  no build target found for D:\scala\functional-programming\assignment6\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 30, 2024 7:06:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jul 30, 2024 7:06:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.07.30 07:06:23 INFO  Attempting to connect to the build server...
+2024.07.30 07:06:23 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.30 07:06:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 07:06:27 INFO  time: Connected to build server in 3.97s
+2024.07.30 07:06:27 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 07:06:27 INFO  running doctor check
+2024.07.30 07:06:27 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.30 07:06:29 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:06:29 INFO  time: indexed workspace in 2.36s
+Jul 30, 2024 7:09:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.30 07:11:14 INFO  Shutting down server
+2024.07.30 07:11:14 INFO  shutting down Metals
+2024.07.30 07:11:14 INFO  Shut down connection with build server.
+2024.07.30 07:11:14 INFO  BSP server: Jul 30, 2024 7:11:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.07.30 07:11:14 INFO  Exiting server
+2024.07.30 07:11:32 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@16eacd37]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@27d7777]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@16eacd37]
+2024.07.30 07:11:32 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:11:33 INFO  no build target found for D:\scala\functional-programming\assignment6\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 30, 2024 7:11:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jul 30, 2024 7:11:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.07.30 07:11:34 INFO  Attempting to connect to the build server...
+2024.07.30 07:11:34 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.30 07:11:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 07:11:38 INFO  time: Connected to build server in 3.94s
+2024.07.30 07:11:38 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 07:11:38 INFO  running doctor check
+2024.07.30 07:11:38 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.30 07:11:40 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:11:40 INFO  time: indexed workspace in 2.44s
+Jul 30, 2024 7:12:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.30 07:17:17 INFO  Shutting down server
+2024.07.30 07:17:17 INFO  shutting down Metals
+2024.07.30 07:17:17 INFO  Shut down connection with build server.
+2024.07.30 07:17:17 INFO  Exiting server
+2024.07.30 07:17:31 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7a29c5d0]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@615fc582]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7a29c5d0]
+2024.07.30 07:17:31 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:17:32 INFO  no build target found for D:\scala\functional-programming\assignment6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 07:17:33 INFO  Attempting to connect to the build server...
+2024.07.30 07:17:33 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.30 07:17:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 07:17:37 INFO  time: Connected to build server in 4.01s
+2024.07.30 07:17:37 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 07:17:37 INFO  running doctor check
+2024.07.30 07:17:37 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+Jul 30, 2024 7:17:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jul 30, 2024 7:17:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2024.07.30 07:17:39 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 07:17:39 INFO  time: indexed workspace in 2.87s
+2024.07.30 07:27:52 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:27:52 INFO  time: compiled assignment6_e91d09b95c in 0.82s
+2024.07.30 07:27:59 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:27:59 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 07:27:59 INFO  time: compiled assignment6_e91d09b95c in 0.45s
+2024.07.30 07:56:20 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:20 INFO  time: compiled assignment6_e91d09b95c in 0.51s
+2024.07.30 07:56:25 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:25 INFO  time: compiled assignment6_e91d09b95c in 0.34s
+2024.07.30 07:56:28 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:28 INFO  time: compiled assignment6_e91d09b95c in 0.34s
+2024.07.30 07:56:32 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:32 INFO  time: compiled assignment6_e91d09b95c in 0.29s
+2024.07.30 07:56:34 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:34 INFO  time: compiled assignment6_e91d09b95c in 0.29s
+2024.07.30 07:56:39 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:39 INFO  time: compiled assignment6_e91d09b95c in 0.27s
+2024.07.30 07:56:44 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:44 INFO  time: compiled assignment6_e91d09b95c in 0.34s
+2024.07.30 07:56:48 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 07:56:48 INFO  time: compiled assignment6_e91d09b95c in 0.29s
+2024.07.30 07:58:08 INFO  Report absolute-path: ### java.lang.IllegalArgumentException: Illegal character in opaque part at index 26: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+
+Uri: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+
+
+#### Error stacktrace:
+
+```
+java.base/java.net.URI.create(URI.java:906)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:178)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:756)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:753)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:739)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:306)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:315)
+	scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:781)
+	scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+```
+
+Jul 30, 2024 7:58:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/Ishan%20Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar%21/scala/collection/Map.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": "/*\n * Scala (https://www.scala-lang.org)\n *\n * Copyright EPFL and Lightbend, Inc.\n *\n * Licensed under Apache License 2.0\n * (http://www.apache.org/licenses/LICENSE-2.0).\n *\n * See the NOTICE file distributed with this work for\n * additional information regarding copyright ownership.\n */\n\npackage scala\npackage collection\n\nimport scala.annotation.nowarn\nimport scala.collection.generic.DefaultSerializable\nimport scala.collection.mutable.StringBuilder\nimport scala.util.hashing.MurmurHash3\n\n/** Base Map type */\ntrait Map[K, +V]\n  extends Iterable[(K, V)]\n    with MapOps[K, V, Map, Map[K, V]]\n    with MapFactoryDefaults[K, V, Map, Iterable]\n    with Equals {\n\n  def mapFactory: scala.collection.MapFactory[Map] \u003d Map\n\n  def canEqual(that: Any): Boolean \u003d true\n\n  /**\n   * Equality of maps is implemented using the lookup method [[get]]. This method returns `true` if\n   *   - the argument `o` is a `Map`,\n   *   - the two maps have the same [[size]], and\n   *   - for every `(key, value)` pair in this map, `other.get(key) \u003d\u003d Some(value)`.\n   *\n   * The implementation of `equals` checks the [[canEqual]] method, so subclasses of `Map` can narrow down the equality\n   * to specific map types. The `Map` implementations in the standard library can all be compared, their `canEqual`\n   * methods return `true`.\n   *\n   * Note: The `equals` method only respects the equality laws (symmetry, transitivity) if the two maps use the same\n   * key equivalence function in their lookup operation. For example, the key equivalence operation in a\n   * [[scala.collection.immutable.TreeMap]] is defined by its ordering. Comparing a `TreeMap` with a `HashMap` leads\n   * to unexpected results if `ordering.equiv(k1, k2)` (used for lookup in `TreeMap`) is different from `k1 \u003d\u003d k2`\n   * (used for lookup in `HashMap`).\n   *\n   * {{{\n   *   scala\u003e import scala.collection.immutable._\n   *   scala\u003e val ord: Ordering[String] \u003d _ compareToIgnoreCase _\n   *\n   *   scala\u003e TreeMap(\"A\" -\u003e 1)(ord) \u003d\u003d HashMap(\"a\" -\u003e 1)\n   *   val res0: Boolean \u003d false\n   *\n   *   scala\u003e HashMap(\"a\" -\u003e 1) \u003d\u003d TreeMap(\"A\" -\u003e 1)(ord)\n   *   val res1: Boolean \u003d true\n   * }}}\n   *\n   *\n   * @param o The map to which this map is compared\n   * @return `true` if the two maps are equal according to the description\n   */\n  override def equals(o: Any): Boolean \u003d\n    (this eq o.asInstanceOf[AnyRef]) || (o match {\n      case map: Map[K @unchecked, _] if map.canEqual(this) \u003d\u003e\n        (this.size \u003d\u003d map.size) \u0026\u0026 {\n          try this.forall(kv \u003d\u003e map.getOrElse(kv._1, Map.DefaultSentinelFn()) \u003d\u003d kv._2)\n          catch { case _: ClassCastException \u003d\u003e false } // PR #9565 / scala/bug#12228\n        }\n      case _ \u003d\u003e\n        false\n    })\n\n  override def hashCode(): Int \u003d MurmurHash3.mapHash(this)\n\n  // These two methods are not in MapOps so that MapView is not forced to implement them\n  @deprecated(\"Use - or removed on an immutable Map\", \"2.13.0\")\n  def - (key: K): Map[K, V]\n  @deprecated(\"Use -- or removedAll on an immutable Map\", \"2.13.0\")\n  def - (key1: K, key2: K, keys: K*): Map[K, V]\n\n  @nowarn(\"\"\"cat\u003ddeprecation\u0026origin\u003dscala\\.collection\\.Iterable\\.stringPrefix\"\"\")\n  override protected[this] def stringPrefix: String \u003d \"Map\"\n\n  override def toString(): String \u003d super[Iterable].toString() // Because `Function1` overrides `toString` too\n}\n\n/** Base Map implementation type\n  *\n  * @tparam K Type of keys\n  * @tparam V Type of values\n  * @tparam CC type constructor of the map (e.g. `HashMap`). Operations returning a collection\n  *            with a different type of entries `(L, W)` (e.g. `map`) return a `CC[L, W]`.\n  * @tparam C  type of the map (e.g. `HashMap[Int, String]`). Operations returning a collection\n  *            with the same type of element (e.g. `drop`, `filter`) return a `C`.\n  * @define coll map\n  * @define Coll `Map`\n  */\n// Note: the upper bound constraint on CC is useful only to\n// erase CC to IterableOps instead of Object\ntrait MapOps[K, +V, +CC[_, _] \u003c: IterableOps[_, AnyConstr, _], +C]\n  extends IterableOps[(K, V), Iterable, C]\n    with PartialFunction[K, V] {\n\n  override def view: MapView[K, V] \u003d new MapView.Id(this)\n\n  /** Returns a [[Stepper]] for the keys of this map. See method [[stepper]]. */\n  def keyStepper[S \u003c: Stepper[_]](implicit shape: StepperShape[K, S]): S \u003d {\n    import convert.impl._\n    val s \u003d shape.shape match {\n      case StepperShape.IntShape    \u003d\u003e new IntIteratorStepper   (keysIterator.asInstanceOf[Iterator[Int]])\n      case StepperShape.LongShape   \u003d\u003e new LongIteratorStepper  (keysIterator.asInstanceOf[Iterator[Long]])\n      case StepperShape.DoubleShape \u003d\u003e new DoubleIteratorStepper(keysIterator.asInstanceOf[Iterator[Double]])\n      case _                        \u003d\u003e shape.seqUnbox(new AnyIteratorStepper(keysIterator))\n    }\n    s.asInstanceOf[S]\n  }\n\n  /** Returns a [[Stepper]] for the values of this map. See method [[stepper]]. */\n  def valueStepper[S \u003c: Stepper[_]](implicit shape: StepperShape[V, S]): S \u003d {\n    import convert.impl._\n    val s \u003d shape.shape match {\n      case StepperShape.IntShape    \u003d\u003e new IntIteratorStepper   (valuesIterator.asInstanceOf[Iterator[Int]])\n      case StepperShape.LongShape   \u003d\u003e new LongIteratorStepper  (valuesIterator.asInstanceOf[Iterator[Long]])\n      case StepperShape.DoubleShape \u003d\u003e new DoubleIteratorStepper(valuesIterator.asInstanceOf[Iterator[Double]])\n      case _                        \u003d\u003e shape.seqUnbox(new AnyIteratorStepper(valuesIterator))\n    }\n    s.asInstanceOf[S]\n  }\n\n  /** Similar to `fromIterable`, but returns a Map collection type.\n    * Note that the return type is now `CC[K2, V2]`.\n    */\n  @`inline` protected final def mapFromIterable[K2, V2](it: Iterable[(K2, V2)]): CC[K2, V2] \u003d mapFactory.from(it)\n\n  /** The companion object of this map, providing various factory methods.\n    *\n    * @note When implementing a custom collection type and refining `CC` to the new type, this\n    *       method needs to be overridden to return a factory for the new type (the compiler will\n    *       issue an error otherwise).\n    */\n  def mapFactory: MapFactory[CC]\n\n  /** Optionally returns the value associated with a key.\n    *\n    *  @param  key    the key value\n    *  @return an option value containing the value associated with `key` in this map,\n    *          or `None` if none exists.\n    */\n  def get(key: K): Option[V]\n\n  /**  Returns the value associated with a key, or a default value if the key is not contained in the map.\n   *   @param   key      the key.\n   *   @param   default  a computation that yields a default value in case no binding for `key` is\n   *                     found in the map.\n   *   @tparam  V1       the result type of the default computation.\n   *   @return  the value associated with `key` if it exists,\n   *            otherwise the result of the `default` computation.\n   */\n  def getOrElse[V1 \u003e: V](key: K, default: \u003d\u003e V1): V1 \u003d get(key) match {\n    case Some(v) \u003d\u003e v\n    case None \u003d\u003e default\n  }\n\n  /** Retrieves the value which is associated with the given key. This\n    *  method invokes the `default` method of the map if there is no mapping\n    *  from the given key to a value. Unless overridden, the `default` method throws a\n    *  `NoSuchElementException`.\n    *\n    *  @param  key the key\n    *  @return     the value associated with the given key, or the result of the\n    *              map\u0027s `default` method, if none exists.\n    */\n  @throws[NoSuchElementException]\n  def apply(key: K): V \u003d get(key) match {\n    case None \u003d\u003e default(key)\n    case Some(value) \u003d\u003e value\n  }\n\n  override /*PartialFunction*/ def applyOrElse[K1 \u003c: K, V1 \u003e: V](x: K1, default: K1 \u003d\u003e V1): V1 \u003d getOrElse(x, default(x))\n\n  /** Collects all keys of this map in a set.\n    * @return  a set containing all keys of this map.\n    */\n  def keySet: Set[K] \u003d new KeySet\n\n  /** The implementation class of the set returned by `keySet`.\n    */\n  protected class KeySet extends AbstractSet[K] with GenKeySet with DefaultSerializable {\n    def diff(that: Set[K]): Set[K] \u003d fromSpecific(this.view.filterNot(that))\n  }\n\n  /** A generic trait that is reused by keyset implementations */\n  protected trait GenKeySet { this: Set[K] \u003d\u003e\n    def iterator: Iterator[K] \u003d MapOps.this.keysIterator\n    def contains(key: K): Boolean \u003d MapOps.this.contains(key)\n    override def size: Int \u003d MapOps.this.size\n    override def knownSize: Int \u003d MapOps.this.knownSize\n    override def isEmpty: Boolean \u003d MapOps.this.isEmpty\n  }\n\n  /** Collects all keys of this map in an iterable collection.\n    *\n    *  @return the keys of this map as an iterable.\n    */\n  def keys: Iterable[K] \u003d keySet\n\n  /** Collects all values of this map in an iterable collection.\n    *\n    *  @return the values of this map as an iterable.\n    */\n  def values: Iterable[V] \u003d new AbstractIterable[V] with DefaultSerializable {\n    override def knownSize: Int \u003d MapOps.this.knownSize\n    override def iterator: Iterator[V] \u003d valuesIterator\n  }\n\n  /** Creates an iterator for all keys.\n    *\n    *  @return an iterator over all keys.\n    */\n  def keysIterator: Iterator[K] \u003d new AbstractIterator[K] {\n    val iter \u003d MapOps.this.iterator\n    def hasNext \u003d iter.hasNext\n    def next() \u003d iter.next()._1\n  }\n\n  /** Creates an iterator for all values in this map.\n    *\n    *  @return an iterator over all values that are associated with some key in this map.\n    */\n  def valuesIterator: Iterator[V] \u003d new AbstractIterator[V] {\n    val iter \u003d MapOps.this.iterator\n    def hasNext \u003d iter.hasNext\n    def next() \u003d iter.next()._2\n  }\n\n  /** Apply `f` to each key/value pair for its side effects\n   *  Note: [U] parameter needed to help scalac\u0027s type inference.\n   */\n  def foreachEntry[U](f: (K, V) \u003d\u003e U): Unit \u003d {\n    val it \u003d iterator\n    while (it.hasNext) {\n      val next \u003d it.next()\n      f(next._1, next._2)\n    }\n  }\n\n  /** Filters this map by retaining only keys satisfying a predicate.\n    *  @param  p   the predicate used to test keys\n    *  @return an immutable map consisting only of those key value pairs of this map where the key satisfies\n    *          the predicate `p`. The resulting map wraps the original map without copying any elements.\n    */\n  @deprecated(\"Use .view.filterKeys(f). A future version will include a strict version of this method (for now, .view.filterKeys(p).toMap).\", \"2.13.0\")\n  def filterKeys(p: K \u003d\u003e Boolean): MapView[K, V] \u003d new MapView.FilterKeys(this, p)\n\n  /** Transforms this map by applying a function to every retrieved value.\n    *  @param  f   the function used to transform values of this map.\n    *  @return a map view which maps every key of this map\n    *          to `f(this(key))`. The resulting map wraps the original map without copying any elements.\n    */\n  @deprecated(\"Use .view.mapValues(f). A future version will include a strict version of this method (for now, .view.mapValues(f).toMap).\", \"2.13.0\")\n  def mapValues[W](f: V \u003d\u003e W): MapView[K, W] \u003d new MapView.MapValues(this, f)\n\n  /** Defines the default value computation for the map,\n    *  returned when a key is not found\n    *  The method implemented here throws an exception,\n    *  but it might be overridden in subclasses.\n    *\n    *  @param key the given key value for which a binding is missing.\n    *  @throws NoSuchElementException\n    */\n  @throws[NoSuchElementException]\n  def default(key: K): V \u003d\n    throw new NoSuchElementException(\"key not found: \" + key)\n\n  /** Tests whether this map contains a binding for a key.\n    *\n    *  @param key the key\n    *  @return    `true` if there is a binding for `key` in this map, `false` otherwise.\n    */\n  def contains(key: K): Boolean \u003d get(key).isDefined\n\n\n  /** Tests whether this map contains a binding for a key. This method,\n    *  which implements an abstract method of trait `PartialFunction`,\n    *  is equivalent to `contains`.\n    *\n    *  @param key the key\n    *  @return    `true` if there is a binding for `key` in this map, `false` otherwise.\n    */\n  def isDefinedAt(key: K): Boolean \u003d contains(key)\n\n  /** Builds a new map by applying a function to all elements of this $coll.\n    *\n    *  @param f      the function to apply to each element.\n    *  @return       a new $coll resulting from applying the given function\n    *                `f` to each element of this $coll and collecting the results.\n    */\n  def map[K2, V2](f: ((K, V)) \u003d\u003e (K2, V2)): CC[K2, V2] \u003d mapFactory.from(new View.Map(this, f))\n\n  /** Builds a new collection by applying a partial function to all elements of this $coll\n    *  on which the function is defined.\n    *\n    *  @param pf     the partial function which filters and maps the $coll.\n    *  @tparam K2    the key type of the returned $coll.\n    *  @tparam V2    the value type of the returned $coll.\n    *  @return       a new $coll resulting from applying the given partial function\n    *                `pf` to each element on which it is defined and collecting the results.\n    *                The order of the elements is preserved.\n    */\n  def collect[K2, V2](pf: PartialFunction[(K, V), (K2, V2)]): CC[K2, V2] \u003d\n    mapFactory.from(new View.Collect(this, pf))\n\n  /** Builds a new map by applying a function to all elements of this $coll\n    *  and using the elements of the resulting collections.\n    *\n    *  @param f      the function to apply to each element.\n    *  @return       a new $coll resulting from applying the given collection-valued function\n    *                `f` to each element of this $coll and concatenating the results.\n    */\n  def flatMap[K2, V2](f: ((K, V)) \u003d\u003e IterableOnce[(K2, V2)]): CC[K2, V2] \u003d mapFactory.from(new View.FlatMap(this, f))\n\n  /** Returns a new $coll containing the elements from the left hand operand followed by the elements from the\n    *  right hand operand. The element type of the $coll is the most specific superclass encompassing\n    *  the element types of the two operands.\n    *\n    *  @param suffix   the iterable to append.\n    *  @return       a new $coll which contains all elements\n    *                of this $coll followed by all elements of `suffix`.\n    */\n  def concat[V2 \u003e: V](suffix: collection.IterableOnce[(K, V2)]): CC[K, V2] \u003d mapFactory.from(suffix match {\n    case it: Iterable[(K, V2)] \u003d\u003e new View.Concat(this, it)\n    case _ \u003d\u003e iterator.concat(suffix.iterator)\n  })\n\n  // Not final because subclasses refine the result type, e.g. in SortedMap, the result type is\n  // SortedMap\u0027s CC, while Map\u0027s CC is fixed to Map\n  /** Alias for `concat` */\n  /*@`inline` final*/ def ++ [V2 \u003e: V](xs: collection.IterableOnce[(K, V2)]): CC[K, V2] \u003d concat(xs)\n\n  override def addString(sb: StringBuilder, start: String, sep: String, end: String): sb.type \u003d\n    iterator.map { case (k, v) \u003d\u003e s\"$k -\u003e $v\" }.addString(sb, start, sep, end)\n\n  @deprecated(\"Consider requiring an immutable Map or fall back to Map.concat.\", \"2.13.0\")\n  def + [V1 \u003e: V](kv: (K, V1)): CC[K, V1] \u003d\n    mapFactory.from(new View.Appended(this, kv))\n\n  @deprecated(\"Use ++ with an explicit collection argument instead of + with varargs\", \"2.13.0\")\n  def + [V1 \u003e: V](elem1: (K, V1), elem2: (K, V1), elems: (K, V1)*): CC[K, V1] \u003d\n    mapFactory.from(new View.Concat(new View.Appended(new View.Appended(this, elem1), elem2), elems))\n\n  @deprecated(\"Consider requiring an immutable Map.\", \"2.13.0\")\n  @`inline` def -- (keys: IterableOnce[K]): C \u003d {\n    lazy val keysSet \u003d keys.iterator.to(immutable.Set)\n    fromSpecific(this.view.filterKeys(k \u003d\u003e !keysSet.contains(k)))\n  }\n\n  @deprecated(\"Use ++ instead of ++: for collections of type Iterable\", \"2.13.0\")\n  def ++: [V1 \u003e: V](that: IterableOnce[(K,V1)]): CC[K,V1] \u003d {\n    val thatIterable: Iterable[(K, V1)] \u003d that match {\n      case that: Iterable[(K, V1)] \u003d\u003e that\n      case that \u003d\u003e View.from(that)\n    }\n    mapFactory.from(new View.Concat(thatIterable, this))\n  }\n}\n\nobject MapOps {\n  /** Specializes `WithFilter` for Map collection types by adding overloads to transformation\n    * operations that can return a Map.\n    *\n    * @define coll map collection\n    */\n  @SerialVersionUID(3L)\n  class WithFilter[K, +V, +IterableCC[_], +CC[_, _] \u003c: IterableOps[_, AnyConstr, _]](\n    self: MapOps[K, V, CC, _] with IterableOps[(K, V), IterableCC, _],\n    p: ((K, V)) \u003d\u003e Boolean\n  ) extends IterableOps.WithFilter[(K, V), IterableCC](self, p) with Serializable {\n\n    def map[K2, V2](f: ((K, V)) \u003d\u003e (K2, V2)): CC[K2, V2] \u003d\n      self.mapFactory.from(new View.Map(filtered, f))\n\n    def flatMap[K2, V2](f: ((K, V)) \u003d\u003e IterableOnce[(K2, V2)]): CC[K2, V2] \u003d\n      self.mapFactory.from(new View.FlatMap(filtered, f))\n\n    override def withFilter(q: ((K, V)) \u003d\u003e Boolean): WithFilter[K, V, IterableCC, CC] \u003d\n      new WithFilter[K, V, IterableCC, CC](self, (kv: (K, V)) \u003d\u003e p(kv) \u0026\u0026 q(kv))\n\n  }\n\n}\n\n/**\n  * $factoryInfo\n  * @define coll map\n  * @define Coll `Map`\n  */\n@SerialVersionUID(3L)\nobject Map extends MapFactory.Delegate[Map](immutable.Map) {\n  private val DefaultSentinel: AnyRef \u003d new AnyRef\n  private val DefaultSentinelFn: () \u003d\u003e AnyRef \u003d () \u003d\u003e DefaultSentinel\n}\n\n/** Explicit instantiation of the `Map` trait to reduce class file size in subclasses. */\nabstract class AbstractMap[K, +V] extends AbstractIterable[(K, V)] with Map[K, V]\n"
+    }
+  }
+}
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 26: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+	at java.base/java.net.URI.create(URI.java:906)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:178)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:175)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:175)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:756)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:753)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:389)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:39)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 26: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+	at java.base/java.net.URI$Parser.fail(URI.java:2973)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3144)
+	at java.base/java.net.URI$Parser.parse(URI.java:3180)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 22 more
+
+Jul 30, 2024 7:58:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didClose",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/Ishan%20Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar%21/scala/collection/Map.scala"
+    }
+  }
+}
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 26: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+	at java.base/java.net.URI.create(URI.java:906)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:178)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:175)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:175)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:756)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:753)
+	at scala.meta.internal.metals.WorkspaceLspService.didClose(WorkspaceLspService.scala:408)
+	at scala.meta.metals.lsp.DelegatingScalaService.didClose(DelegatingScalaService.scala:53)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 26: jar:file:///C:/Users/Ishan Maduranga/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12-sources.jar!/scala/collection/Map.scala
+	at java.base/java.net.URI$Parser.fail(URI.java:2973)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3144)
+	at java.base/java.net.URI$Parser.parse(URI.java:3180)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 22 more
+
+2024.07.30 08:00:48 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 08:00:48 INFO  time: compiled assignment6_e91d09b95c in 0.26s
+2024.07.30 08:00:53 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 08:00:53 INFO  time: compiled assignment6_e91d09b95c in 0.34s
+2024.07.30 09:59:31 INFO  Started: Metals version 1.3.4 in folders 'D:\scala\functional-programming\assignment6' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@40cda9b8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@c9d6004]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@40cda9b8]
+2024.07.30 09:59:36 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jul 30, 2024 9:59:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jul 30, 2024 9:59:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2024.07.30 09:59:37 INFO  no build target found for D:\scala\functional-programming\assignment6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 09:59:38 INFO  no build target found for D:\scala\functional-programming\assignment6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 09:59:38 INFO  Attempting to connect to the build server...
+2024.07.30 09:59:38 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\functional-programming\assignment6\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\functional-programming\assignment6\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\functional-programming\assignment6\.scala-build\ide-envs.json, D:\scala\functional-programming\assignment6)
+2024.07.30 09:59:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment6\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 09:59:41 INFO  BSP server: Starting compilation server
+2024.07.30 09:59:41 INFO  no build target found for D:\scala\functional-programming\assignment6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 09:59:49 INFO  time: Connected to build server in 10s
+2024.07.30 09:59:49 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 09:59:49 INFO  time: Imported build in 0.33s
+2024.07.30 09:59:49 INFO  running doctor check
+2024.07.30 09:59:49 INFO  java targets: assignment6_e91d09b95c, assignment6_e91d09b95c-test
+2024.07.30 09:59:56 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 09:59:56 INFO  time: indexed workspace in 7.28s
+Jul 30, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Jul 30, 2024 10:18:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 123
+2024.07.30 11:30:34 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:30:39 INFO  time: compiled assignment6_e91d09b95c in 5.38s
+2024.07.30 11:31:52 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:31:52 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:31:52 INFO  time: compiled assignment6_e91d09b95c in 0.58s
+2024.07.30 11:31:53 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:31:54 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:31:54 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:31:54 INFO  time: compiled assignment6_e91d09b95c in 0.53s
+2024.07.30 11:31:55 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:31:54 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:31:55 INFO  time: compiled assignment6_e91d09b95c in 0.4s
+2024.07.30 11:31:56 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:00 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:01 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:02 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:02 INFO  time: compiled assignment6_e91d09b95c in 0.34s
+2024.07.30 11:32:02 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:07 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:08 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:09 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:09 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:09 INFO  time: compiled assignment6_e91d09b95c in 0.27s
+2024.07.30 11:32:10 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:11 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:11 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:13 INFO  time: compiled assignment6_e91d09b95c in 1.4s
+2024.07.30 11:32:13 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:32 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:41 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:44 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:44 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:45 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:46 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:46 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:46 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:46 INFO  time: compiled assignment6_e91d09b95c in 0.32s
+2024.07.30 11:32:47 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:47 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:48 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:48 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:48 INFO  time: compiled assignment6_e91d09b95c in 0.61s
+2024.07.30 11:32:49 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:49 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:50 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:50 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:50 INFO  time: compiled assignment6_e91d09b95c in 0.32s
+2024.07.30 11:32:50 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:50 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:32:52 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:32:53 INFO  time: compiled assignment6_e91d09b95c in 1.08s
+2024.07.30 11:34:43 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:34:43 INFO  time: compiled assignment6_e91d09b95c in 0.24s
+Jul 30, 2024 11:34:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566
+2024.07.30 11:34:48 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:34:48 INFO  time: compiled assignment6_e91d09b95c in 0.2s
+2024.07.30 11:34:50 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:34:50 INFO  time: compiled assignment6_e91d09b95c in 0.65s
+2024.07.30 11:34:58 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:34:59 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:34:58 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:34:59 INFO  time: compiled assignment6_e91d09b95c in 0.51s
+2024.07.30 11:35:00 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:35:00 INFO  time: compiled assignment6_e91d09b95c in 0.16s
+2024.07.30 11:35:06 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:35:06 INFO  time: compiled assignment6_e91d09b95c in 0.21s
+2024.07.30 11:35:09 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:35:09 INFO  time: compiled assignment6_e91d09b95c in 0.61s
+2024.07.30 11:35:11 WARN  Could not load snapshot text for D:\scala\functional-programming\assignment6\q2.scala
+2024.07.30 11:35:12 INFO  compiling assignment6_e91d09b95c (1 scala source)
+2024.07.30 11:35:12 INFO  time: compiled assignment6_e91d09b95c in 0.4s
+Jul 30, 2024 12:03:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 730
+2024.07.30 18:37:49 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:37:49 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:37:50 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:19 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:19 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:21 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:21 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:21 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:22 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:22 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:22 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:23 WARN  no build target for: D:\scala\functional-programming\assignment6\build.sbt
+2024.07.30 18:38:23 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:23 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:25 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:25 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:25 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:25 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:25 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:26 WARN  no build target for: D:\scala\functional-programming\assignment6\build.sbt
+2024.07.30 18:38:26 INFO  no build target found for D:\scala\functional-programming\assignment6\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 18:38:26 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment6/build.sbt
+2024.07.30 18:38:27 INFO  Shutting down server
+2024.07.30 18:38:27 INFO  shutting down Metals
+2024.07.30 18:38:27 INFO  Shut down connection with build server.
+2024.07.30 18:38:27 INFO  Exiting server

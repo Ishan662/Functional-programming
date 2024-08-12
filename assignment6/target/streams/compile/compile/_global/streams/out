@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: D:\scala\functional-programming\assignment6\q2.scala:60:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m60 |[0m    validateInput(studentRecord)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            Found:    (studentRecord : (String, Int, Int, Double, Char))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            Required: String[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

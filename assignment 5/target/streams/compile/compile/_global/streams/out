@@ -1,0 +1,15 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: D:\scala\functional-programming\assignment 5\22000356-2.scala:43:21 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m43 |[0m    removeBookByISBN([31m123[0m-[31m321[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                     ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                     Found:    ([31m-198[0m : Int)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                     Required: String[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: D:\scala\functional-programming\assignment 5\22000356-2.scala:45:32 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m45 |[0m    [33mvar[0m [36mvalue[0m = isBookInLibrary([31m12345[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                Found:    ([31m12345[0m : Int)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                Required: String[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\scala\functional-programming\assignment7\target\scala-3.4.2\assignment7_3-1.10.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculateSquare$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\CalculateSquare$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculateSquare.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\CalculateSquare.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculateSquare.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\CalculateSquare.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	filterEvenNumbers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\filterEvenNumbers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	filterEvenNumbers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\filterEvenNumbers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	filterEvenNumbers.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\filterEvenNumbers.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primeFactor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\primeFactor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primeFactor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\primeFactor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primeFactor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\functional-programming\assignment7\target\scala-3.4.2\classes\primeFactor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
