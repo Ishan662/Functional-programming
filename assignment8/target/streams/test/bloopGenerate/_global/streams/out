@@ -1,0 +1,4 @@
+[debug] [assignment8-test] Classpath dependencies List()
+[debug] [assignment8-test] Dependencies from configurations List(assignment8)
+[debug] Bloop wrote the configuration of project 'assignment8-test' to 'D:\scala\functional-programming\assignment8\.bloop\assignment8-test.json'
+[success] Generated .bloop\assignment8-test.json

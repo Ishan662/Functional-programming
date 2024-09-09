@@ -23,7 +23,7 @@ object  CaesarCipher {
   }
 
   def main(args: Array[String]): Unit = {
-    val text = "Hello, World!"
+    val text = "Ishan Maduranga"
     val shift = 5
 
     val encryptedText = encrypt(text, shift)

@@ -1,11 +1,8 @@
-object checkNumber{
-    def main(args: Array[String]): Unit = {
-    if (args.length == 0) {
-      println("Please provide an integer input.")
-      return
-    }
-
-    val input = args(0).toInt
+object CheckNumber {
+  def main(args: Array[String]): Unit = {
+    println("Please enter an integer:")
+    
+    val input = scala.io.StdIn.readInt()
 
     val checkNumber: Int => String = num => num match {
       case n if n <= 0            => "Negative/Zero is input"

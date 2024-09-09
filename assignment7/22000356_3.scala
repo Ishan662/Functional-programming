@@ -1,25 +1,23 @@
 import scala.io.StdIn.readLine
 
-object primeFactor{
-    def getInputs(): List[Int] = {
-        var inputList : List[Int] = List()
-        var continue = true
-        
-        while(continue){
-            val input = readLine("Enter a number(Empty enter for terminate ) :")
+object primeFactor {
+  def getInputs(): List[Int] = {
+    var inputList: List[Int] = List()
+    var continue = true
 
-            if(input.isEmpty){
-                continue = false
-            }
-            else{
-                inputList = inputList :+ input.toInt
-            }
-            
-        }
-        inputList
+    while (continue) {
+      val input = readLine("Enter a number (Empty enter for terminate): ")
+
+      if (input.isEmpty) {
+        continue = false
+      } else {
+        inputList = inputList :+ input.toInt
+      }
     }
+    inputList
+  }
 
-    def isPrime(num: Int): Boolean = {
+  def isPrime(num: Int): Boolean = {
     if (num <= 1) {
       false
     } else {
@@ -27,13 +25,13 @@ object primeFactor{
     }
   }
 
-    def filterPrime(numbers: List[Int]): List[Int] = {
-        numbers.filter(isPrime)
-    }
+  def filterPrime(numbers: List[Int]): List[Int] = {
+    numbers.filter(isPrime)
+  }
 
-    def main(args: Array[String]): Unit = {
-        val inputList = getInputs()
-        val primeList = filterPrime(inputList)
-        println(primeList) 
-    }
+  def main(args: Array[String]): Unit = {
+    val inputList = getInputs()
+    val primeList = filterPrime(inputList)
+    println(primeList)
+  }
 }

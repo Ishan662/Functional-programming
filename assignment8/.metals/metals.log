@@ -1,0 +1,516 @@
+2024.08.13 09:19:48 INFO  Started: Metals version 1.3.5 in folders 'D:\scala\functional-programming\assignment8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@47ffefb4]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@378bda89]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@47ffefb4]
+2024.08.13 09:19:48 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 13, 2024 9:19:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 13, 2024 9:19:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Aug 13, 2024 9:19:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.13 09:19:50 INFO  no build target found for D:\scala\functional-programming\assignment8\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 09:19:54 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment8/build.sbt
+2024.08.13 09:19:56 INFO  running 'C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\ISHANM~1\AppData\Local\Temp\metals3002072520944040158\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.08.13 09:20:01 INFO  [info] welcome to sbt 1.10.0 (Oracle Corporation Java 18.0.2.1)
+Aug 13, 2024 9:20:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.13 09:20:06 INFO  [info] loading settings for project assignment8-build-build from metals.sbt ...
+2024.08.13 09:20:07 INFO  [info] loading project definition from D:\scala\functional-programming\assignment8\project\project
+2024.08.13 09:20:11 INFO  [info] loading settings for project assignment8-build from metals.sbt ...
+2024.08.13 09:20:11 INFO  [info] loading project definition from D:\scala\functional-programming\assignment8\project
+2024.08.13 09:20:15 INFO  [success] Generated .bloop\assignment8-build.json
+2024.08.13 09:20:15 INFO  [success] Total time: 4 s, completed Aug 13, 2024, 9:20:15 AM
+2024.08.13 09:20:16 INFO  [info] loading settings for project assignment8 from build.sbt ...
+2024.08.13 09:20:16 INFO  [info] set current project to assignment8 (in build file:/D:/scala/functional-programming/assignment8/)
+2024.08.13 09:20:18 INFO  [success] Generated .bloop\assignment8.json
+2024.08.13 09:20:18 INFO  [success] Generated .bloop\assignment8-test.json
+2024.08.13 09:20:18 INFO  [success] Total time: 1 s, completed Aug 13, 2024, 9:20:18 AM
+2024.08.13 09:20:18 INFO  time: ran 'sbt bloopInstall' in 21s
+2024.08.13 09:20:18 INFO  Attempting to connect to the build server...
+2024.08.13 09:20:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:20:24 INFO  Attempting to connect to the build server...
+2024.08.13 09:20:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:20:45 ERROR Timeout waiting for 'build/initialize' response
+2024.08.13 09:20:45 WARN  Retrying connection to the build server Bloop
+2024.08.13 09:20:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:21:05 ERROR Timeout waiting for 'build/initialize' response
+2024.08.13 09:21:05 WARN  Retrying connection to the build server Bloop
+2024.08.13 09:21:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:21:17 INFO  time: Connected to build server in 59s
+2024.08.13 09:21:17 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:21:18 INFO  time: Imported build in 0.29s
+2024.08.13 09:21:18 INFO  running doctor check
+2024.08.13 09:21:18 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:21:56 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 09:22:08 INFO  time: indexed workspace in 50s
+2024.08.13 09:22:12 INFO  time: code lens generation in 3.13s
+2024.08.13 09:22:12 INFO  time: code lens generation in 2.82s
+2024.08.13 09:22:12 INFO  time: code lens generation in 3.13s
+2024.08.13 09:22:12 INFO  time: code lens generation in 3.13s
+2024.08.13 09:22:12 INFO  time: code lens generation in 3.13s
+2024.08.13 09:24:59 INFO  compiling assignment8 (2 scala sources)
+2024.08.13 09:25:04 INFO  time: compiled assignment8 in 5.7s
+2024.08.13 09:26:43 INFO  skipping build import with status 'Installed'
+2024.08.13 09:26:43 INFO  Disconnecting from Bloop session...
+2024.08.13 09:26:43 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:26:43 INFO  Shut down connection with build server.
+2024.08.13 09:26:43 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:26:43 INFO  time: compiled assignment8 in 0.13s
+2024.08.13 09:26:43 INFO  Shut down connection with build server.
+2024.08.13 09:26:43 INFO  Attempting to connect to the build server...
+2024.08.13 09:26:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:26:43 INFO  Attempting to connect to the build server...
+2024.08.13 09:26:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:26:43 INFO  time: Connected to build server in 0.12s
+2024.08.13 09:26:43 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:26:43 INFO  time: Imported build in 0.14s
+2024.08.13 09:26:43 INFO  running doctor check
+2024.08.13 09:26:43 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:26:46 INFO  time: indexed workspace in 2.76s
+2024.08.13 09:26:46 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:26:46 INFO  compiling assignment8-test (2 scala sources)
+2024.08.13 09:26:46 INFO  time: compiled assignment8 in 0.64s
+2024.08.13 09:26:47 INFO  time: compiled assignment8-test in 0.79s
+2024.08.13 09:26:48 INFO  skipping build import with status 'Installed'
+2024.08.13 09:26:48 INFO  Disconnecting from Bloop session...
+2024.08.13 09:26:49 INFO  Shut down connection with build server.
+2024.08.13 09:26:49 INFO  Shut down connection with build server.
+Aug 13, 2024 9:26:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.08.13 09:26:49 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:26:49 INFO  Attempting to connect to the build server...
+2024.08.13 09:26:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:26:49 INFO  Attempting to connect to the build server...
+2024.08.13 09:26:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:26:49 INFO  time: Connected to build server in 0.15s
+2024.08.13 09:26:49 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:26:49 INFO  time: Imported build in 0.14s
+2024.08.13 09:26:49 INFO  running doctor check
+2024.08.13 09:26:49 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:26:51 INFO  time: indexed workspace in 2.56s
+2024.08.13 09:26:51 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:26:51 INFO  time: compiled assignment8 in 0.52s
+2024.08.13 09:26:51 INFO  compiling assignment8-test (1 scala source)
+2024.08.13 09:26:51 INFO  time: compiled assignment8-test in 0.43s
+2024.08.13 09:29:12 INFO  skipping build import with status 'Installed'
+2024.08.13 09:29:12 INFO  Disconnecting from Bloop session...
+2024.08.13 09:29:12 INFO  Shut down connection with build server.
+2024.08.13 09:29:12 INFO  Shut down connection with build server.
+Aug 13, 2024 9:29:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.08.13 09:29:12 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:29:12 INFO  Attempting to connect to the build server...
+2024.08.13 09:29:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:29:12 INFO  Attempting to connect to the build server...
+2024.08.13 09:29:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:29:12 INFO  time: Connected to build server in 0.18s
+2024.08.13 09:29:12 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:29:12 INFO  time: Imported build in 0.11s
+2024.08.13 09:29:12 INFO  running doctor check
+2024.08.13 09:29:12 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:29:15 INFO  time: indexed workspace in 2.46s
+2024.08.13 09:29:15 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:29:15 INFO  compiling assignment8-test (1 scala source)
+2024.08.13 09:29:15 INFO  time: compiled assignment8 in 0.36s
+2024.08.13 09:29:15 INFO  time: compiled assignment8-test in 0.33s
+Aug 13, 2024 9:29:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 204
+2024.08.13 09:29:21 INFO  skipping build import with status 'Installed'
+2024.08.13 09:29:21 INFO  Disconnecting from Bloop session...
+2024.08.13 09:29:21 INFO  Shut down connection with build server.
+2024.08.13 09:29:21 INFO  Shut down connection with build server.
+Aug 13, 2024 9:29:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.08.13 09:29:21 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:29:21 INFO  Attempting to connect to the build server...
+2024.08.13 09:29:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:29:21 INFO  Attempting to connect to the build server...
+2024.08.13 09:29:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:29:21 INFO  time: Connected to build server in 0.17s
+2024.08.13 09:29:21 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:29:21 INFO  time: Imported build in 0.11s
+2024.08.13 09:29:21 INFO  running doctor check
+2024.08.13 09:29:21 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:29:24 INFO  time: indexed workspace in 2.6s
+2024.08.13 09:29:24 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:29:24 INFO  compiling assignment8-test (1 scala source)
+2024.08.13 09:29:24 INFO  time: compiled assignment8 in 0.36s
+2024.08.13 09:29:24 INFO  time: compiled assignment8-test in 0.33s
+2024.08.13 09:34:34 INFO  skipping build import with status 'Installed'
+2024.08.13 09:34:34 INFO  Disconnecting from Bloop session...
+2024.08.13 09:34:34 INFO  Shut down connection with build server.
+2024.08.13 09:34:34 INFO  Shut down connection with build server.
+Aug 13, 2024 9:34:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.08.13 09:34:34 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:34:34 INFO  Attempting to connect to the build server...
+2024.08.13 09:34:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:34:34 INFO  Attempting to connect to the build server...
+2024.08.13 09:34:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:34:34 INFO  time: Connected to build server in 0.18s
+2024.08.13 09:34:34 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:34:34 INFO  running doctor check
+2024.08.13 09:34:34 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:34:35 INFO  compiling assignment8 (1 scala source)
+2024.08.13 09:34:35 INFO  time: compiled assignment8 in 0.31s
+2024.08.13 09:34:37 INFO  time: indexed workspace in 2.96s
+2024.08.13 09:35:48 INFO  skipping build import with status 'Installed'
+2024.08.13 09:35:48 INFO  Disconnecting from Bloop session...
+2024.08.13 09:35:48 INFO  Shut down connection with build server.
+2024.08.13 09:35:48 INFO  Shut down connection with build server.
+Aug 13, 2024 9:35:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.08.13 09:35:48 INFO  Cancelling compilation on Bloop server
+2024.08.13 09:35:48 INFO  Attempting to connect to the build server...
+2024.08.13 09:35:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:35:48 INFO  Attempting to connect to the build server...
+2024.08.13 09:35:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:35:48 INFO  time: Connected to build server in 0.14s
+2024.08.13 09:35:48 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.13 09:35:48 INFO  time: Imported build in 0.12s
+2024.08.13 09:35:48 INFO  running doctor check
+2024.08.13 09:35:48 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.13 09:35:50 INFO  time: indexed workspace in 2.33s
+2024.08.13 09:35:50 INFO  compiling assignment8-test (1 scala source)
+2024.08.13 09:35:50 INFO  time: compiled assignment8-test in 0.35s
+2024.08.13 09:59:19 INFO  Shutting down server
+2024.08.13 09:59:19 INFO  shutting down Metals
+2024.08.13 09:59:19 ERROR build shutdown: bloop
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:171)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy2.$Proxy11.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: Connection reset by peer
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.io.OutputStream.write(OutputStream.java:127)
+	at sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:171)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy2.$Proxy11.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.13 09:59:19 ERROR build shutdown: bloop
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:171)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy2.$Proxy11.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: Connection reset by peer
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:124)
+	at sun.nio.ch.ChannelOutputStream.writeFullyImpl(ChannelOutputStream.java:60)
+	at sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:79)
+	at sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:122)
+	at java.io.OutputStream.write(OutputStream.java:127)
+	at sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:105)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:171)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy2.$Proxy11.buildShutdown(null)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:177)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.13 09:59:19 INFO  Exiting server
+2024.08.27 10:07:56 INFO  Started: Metals version 1.3.5 in folders 'D:\scala\functional-programming\assignment8' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2bd4df77]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5170e410]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2bd4df77]
+2024.08.27 10:07:56 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.27 10:07:58 INFO  no build target found for D:\scala\functional-programming\assignment8\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.27 10:07:58 INFO  Attempting to connect to the build server...
+Aug 27, 2024 10:07:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Aug 27, 2024 10:07:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Aug 27, 2024 10:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2024.08.27 10:08:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.27 10:08:07 INFO  Attempting to connect to the build server...
+2024.08.27 10:08:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment8\project\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.27 10:08:08 INFO  time: Connected to build server in 9.56s
+2024.08.27 10:08:08 INFO  Connected to Build server: Bloop v1.6.0
+2024.08.27 10:08:07 INFO  time: Imported build in 0.24s
+2024.08.27 10:08:08 INFO  running doctor check
+2024.08.27 10:08:08 INFO  java targets: assignment8-build, assignment8, assignment8-test
+2024.08.27 10:08:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.27 10:08:21 INFO  time: indexed workspace in 12s
+2024.08.27 10:08:21 INFO  compiling assignment8-test (1 scala source)
+2024.08.27 10:08:27 INFO  time: compiled assignment8-test in 5.15s
+2024.08.27 10:08:31 INFO  Shutting down server
+2024.08.27 10:08:31 INFO  shutting down Metals
+2024.08.27 10:08:31 INFO  Shut down connection with build server.
+2024.08.27 10:08:31 INFO  Shut down connection with build server.
+2024.08.27 10:08:31 INFO  Exiting server
